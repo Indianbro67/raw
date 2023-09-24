@@ -1,1 +1,2 @@
 log_data(f'password: {pwd}')
+mongodb+srv://utkarshsin2:3jv94E8uljFFTYxV@cluster0.my6yklv.mongodb.net/?retryWrites=true&w=majority
